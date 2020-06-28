@@ -15,10 +15,10 @@ public class Main
         System.out.println("Enter a number");
         x = ob.nextInt();
         if (x % 2 == 0) {
-            System.out.println(" It is an Even");
+            System.out.println(" It is an Even number");
  
         } else {
-            System.out.println("It is an Odd");
+            System.out.println("It is an Odd number");
         }
 
     }
