@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-		int[]arr=(10,20,30,40,50);
+		int[]arr={10,20,30,40,50};
 		int i;
 		System.out.println("By using normal for loop");
 		for (i=0;i<5;i++){
